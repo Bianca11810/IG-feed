@@ -1,0 +1,51 @@
+body{
+    background:rgb(182, 177, 177);
+}
+h1{
+    background:white;
+    width: 750px;
+    margin:auto;
+}
+.posts{
+    /* background: white; */
+    width: 750px;
+    margin:auto;
+}
+.posts img{
+    width: 100%;
+}
+.posts p, .posts h2{
+    padding:10px;
+}
+.post h2{
+    /* display: inline-block; */
+    /* background:green; */
+    /* width: 80%; */
+    /* float: left; */
+}
+.post span {
+    /* display: inline-block; */
+    /* background:pink; */
+    /* float: right; */
+    margin-left: 600px;
+    margin-top: 35px;
+    margin-right: 10px;
+}
+.post {
+    margin-top: 1rem;
+    background-color: white;
+}
+
+.post_header{
+    border: none;
+    border-bottom: 1px solid red;
+    display: flex;
+}
+
+/* .red{ background-color: red; }
+.blue{ background-color: blue; }
+.yellow{ background-color: yellow; } */
+
+/* asdasdasdas */
+
+/* control / */
